@@ -565,6 +565,7 @@ small {
 
 .teal {
   background-color: #303843 !important;
+  box-shadow: 0px 10px #000000;
 }
 
 /* .teal {
