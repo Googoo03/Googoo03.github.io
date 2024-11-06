@@ -649,7 +649,7 @@ small {
   h3, .container {
     position: relative;
     top: 64px;
-    box-shadow: 0px 10px 5px #000000;
+    /*box-shadow: 0px 10px 5px #000000;*/
   }
   section#intro {
     margin-bottom: -64px;
