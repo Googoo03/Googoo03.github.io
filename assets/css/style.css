@@ -515,19 +515,23 @@ a.hoverline:hover {
   height: auto;
 }
 
+.card.large .card-content:hover {
+  height: 240px;
+}
+
 .card.medium {
-  height: 500px;
+  height: 400px;
   width: 400px;
 }
 
-.card.medium .card-image {
+/*.card.medium .card-image {
   height: 80%;
   
 }
 
 .card.medium .card-content{
   height: 20%;
-}
+}*/
 
 .card-action a.btn-floating {
   margin-bottom: 0;
