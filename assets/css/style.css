@@ -536,14 +536,14 @@ a.hoverline:hover {
 
 .card.medium .card-image {
   height: 400px;
+  width: 100%;
   object-fit: cover;
-  overflow: hidden;
 }
 
 .card.medium:hover .card-image{
   height: 250px;
+  width: 100%;
   object-fit: cover;
-  overflow: hidden;
 }
 
 .card.medium .card-content{
