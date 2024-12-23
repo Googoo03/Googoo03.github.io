@@ -367,7 +367,8 @@ h3 {
 
 .coverVideo{
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 
 .waves-effect.waves-blue .waves-ripple {
@@ -540,6 +541,7 @@ a.hoverline:hover {
 
 .card.medium:hover .card-image{
   height: 250px;
+  object-fit: cover;
   overflow: hidden;
 }
 
