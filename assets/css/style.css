@@ -536,6 +536,7 @@ a.hoverline:hover {
 
 .card.medium .card-image {
   height: 400px;
+  object-fit: cover;
   overflow: hidden;
 }
 
