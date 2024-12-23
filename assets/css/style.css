@@ -523,22 +523,22 @@ a.hoverline:hover {
   height: 240px;
 }*/
 
-.card.medium {
+.card.mediumC {
   height: 400px;
   width: 400px;
 }
 
-.card.medium .card-image {
-  height: 100%;
+.card.mediumC .card-image {
+  height: 400px;
   
 }
 
-.card.medium .card-image:hover {
-  height: 50%;
+.card.mediumC .card-image:hover {
+  height: 250px;
   overflow: hidden;
 }
 
-.card.medium .card-content{
+.card.mediumC .card-content{
   height: auto;
   overflow: hidden;
 }
