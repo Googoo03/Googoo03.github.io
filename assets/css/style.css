@@ -528,14 +528,20 @@ a.hoverline:hover {
   width: 400px;
 }
 
-/*.card.medium .card-image {
-  height: 80%;
+.card.medium .card-image {
+  height: 100%;
   
 }
 
+.card.medium .card-image:hover {
+  height: 50%;
+  overflow: hidden;
+}
+
 .card.medium .card-content{
-  height: 20%;
-}*/
+  height: auto;
+  overflow: hidden;
+}
 
 .card-action a.btn-floating {
   margin-bottom: 0;
