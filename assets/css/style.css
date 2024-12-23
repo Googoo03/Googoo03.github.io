@@ -508,16 +508,20 @@ a.hoverline:hover {
 }
 
 .card.large .card-image {
-  height: 230px;
+  height: 100%;
+}
+
+.card.large .card-image:hover {
+  height: 50%;
 }
 
 .card.large .card-content {
   height: auto;
 }
 
-.card.large .card-content:hover {
+/*.card.large .card-content:hover {
   height: 240px;
-}
+}*/
 
 .card.medium {
   height: 400px;
